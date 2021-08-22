@@ -1,0 +1,13 @@
+main.c:114:5:main	16	static
+main.c:174:6:convert_hexa	24	static
+main.c:187:6:HAL_UART_RxCpltCallback	128	static
+main.c:264:6:SystemClock_Config	160	static
+main.c:312:13:MX_CAN_Init	8	static
+main.c:400:13:MX_NVIC_Init	8	static
+main.c:412:6:asciitobinary	64	static
+main.c:436:13:MX_USART2_UART_Init	8	static
+main.c:471:13:MX_GPIO_Init	48	static
+main.c:501:5:__io_putchar	24	static
+main.c:509:5:_write	32	static
+main.c:519:6:HAL_CAN_RxFifo0MsgPendingCallback	24	static
+main.c:558:6:Error_Handler	4	static,ignoring_inline_asm
