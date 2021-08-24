@@ -1,1 +1,1 @@
-# CAN-Bus-HEX-send-and-receive-data-from-to-the-terminal-via-UART
+# CAN Bus HEX data send and receive from/to the terminal via UART
